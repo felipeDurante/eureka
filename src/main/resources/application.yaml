@@ -9,4 +9,4 @@ logging:
     name: spring.log
     path: /log
   level:
-    root: log
+    root: info
